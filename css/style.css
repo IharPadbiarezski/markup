@@ -1,48 +1,48 @@
 @font-face {
   font-family: 'Yesev One';
-  src: url('../fonts/yesevaone/yesevaone-regular_v2-webfont.woff2') format('woff2'), url('yesevaone-regular_v2-webfont.woff') format('woff');
+  src: url('../fonts/yesevaone/yesevaone-regular_v2-webfont.woff2') format('woff2'), url('../fonts/yesevaone/yesevaone-regular_v2-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Gentium Book Basic';
-  src: url('..fonts/genbkbasb/genbkbasb-webfont.woff2') format('woff2'), url('..fonts/genbkbasb/genbkbasb-webfont.woff') format('woff');
+  src: url('../fonts/genbkbasb/genbkbasb-webfont.woff2') format('woff2'), url('../fonts/genbkbasb/genbkbasb-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Lato';
-  src: url('..fonts/lato/lato-regular-webfont.woff2') format('woff2'), url('..fonts/lato/lato-regular-webfont.woff') format('woff');
+  src: url('../fonts/lato/lato-regular-webfont.woff2') format('woff2'), url('../fonts/lato/lato-regular-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sans Italic';
-  src: url('..fonts/opensans/opensans-italic-webfont.woff2') format('woff2'), url('..fonts/opensans/opensans-italic-webfont.woff') format('woff');
+  src: url('../fonts/opensans/opensans-italic-webfont.woff2') format('woff2'), url('../fonts/opensans/opensans-italic-webfont.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sans Regular';
-  src: url('..fonts/opensans/opensans-regular-webfont.woff2') format('woff2'), url('..fonts/opensans/opensans-regular-webfont.woff') format('woff');
+  src: url('../fonts/opensans/opensans-regular-webfont.woff2') format('woff2'), url('../fonts/opensans/opensans-regular-webfont.woff') format('woff');
   font-weight: 400;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Open Sans Regular';
-  src: url('..fonts/opensans/opensans-bold-webfont.woff2') format('woff2'), url('..fonts/opensans/opensans-bold-webfont.woff') format('woff');
+  src: url('../fonts/opensans/opensans-bold-webfont.woff2') format('woff2'), url('../fonts/opensans/opensans-bold-webfont.woff') format('woff');
   font-weight: 700;
   font-style: normal;
 }
 
 @font-face {
   font-family: 'Georgia';
-  src: url('..fonts/georgia/georgia-webfont.woff2') format('woff2'), url('..fonts/georgia/georgia-webfont.woff') format('woff');
+  src: url('../fonts/georgia/georgia-webfont.woff2') format('woff2'), url('../fonts/georgia/georgia-webfont.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
